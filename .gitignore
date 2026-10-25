@@ -1,0 +1,5 @@
+__pycache__
+.pytest_cache
+results.csv
+validation_seed7.csv
+validation.csv
